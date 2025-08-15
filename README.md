@@ -1,4 +1,4 @@
-# AI Agents in LangGraph
+# Matrix th AI Agent that writes reports
 
 An AI-powered essay writer using LangGraph for multi-agent orchestration. This project demonstrates how to build intelligent, collaborative AI agents that can work together to create high-quality essays.
 
